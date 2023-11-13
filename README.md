@@ -1,1 +1,2 @@
 # Random-Colour
+Mini Project
